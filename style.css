@@ -1,0 +1,50 @@
+#div1{
+	overflow:scroll;
+    height:400px;
+    width:1200px;
+    margin-top: 70px;
+}
+
+#div1 table {
+ 	width: 300px;
+ 	height: 1000px;
+    background-color:lightgray;
+    font-size: 11px;
+  }
+
+#div2{
+	overflow:scroll;
+    height:300px;
+    width:620px;
+     margin-top: 70px;
+}
+
+#div2 table {
+ 	width: 600px;
+ 	font-size: 11px;
+    background-color:lightgray;
+
+}
+
+#div3{
+	overflow:scroll;
+    height:250px;
+    width:620px;
+    margin-top: 70px;
+}
+
+#div3 table {
+ 	width: 600px;
+ 	font-size: 11px;
+    background-color:lightgray;
+}
+
+
+
+
+
+
+
+
+
+
